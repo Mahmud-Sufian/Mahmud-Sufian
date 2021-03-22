@@ -34,15 +34,9 @@
 <br />
 <br />
 <hr />
-  <!-- <img align="left" alt="Fahim-Ahmeed GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Fahim-Ahmeed&show_icons=true&hide_border=true" />
-
-  <img align="left" alt="Fahim-Ahmeed GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fahim-Ahmeed&show_icons=true&hide_border=true" />
-<br />
-<br />
-<br /> -->
+ 
 
 [facebook]: https://www.facebook.com/odhora.alo.777/
 [stackoverflow]: https://stackoverflow.com/users/15452760/mahmud-sufian?tab=profile
 [linkedin]: https://www.linkedin.com/in/mahmud-sufian-60a9651b5/
-[instagram]: https://www.instagram.com/mahmud_sufian_/
-<!-- [webdevplaylist]:https://mahmud-sufian-portfolio.web.app/ -->
+[instagram]: https://www.instagram.com/mahmud_sufian_/ 
